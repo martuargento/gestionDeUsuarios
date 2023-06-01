@@ -1,0 +1,15 @@
+C:\Users\martu\source\repos\GestionDeUsuarios\GestionDeUsuarios\bin\Debug\net6.0-windows\GestionDeUsuarios.exe
+C:\Users\martu\source\repos\GestionDeUsuarios\GestionDeUsuarios\bin\Debug\net6.0-windows\GestionDeUsuarios.deps.json
+C:\Users\martu\source\repos\GestionDeUsuarios\GestionDeUsuarios\bin\Debug\net6.0-windows\GestionDeUsuarios.runtimeconfig.json
+C:\Users\martu\source\repos\GestionDeUsuarios\GestionDeUsuarios\bin\Debug\net6.0-windows\GestionDeUsuarios.dll
+C:\Users\martu\source\repos\GestionDeUsuarios\GestionDeUsuarios\bin\Debug\net6.0-windows\GestionDeUsuarios.pdb
+C:\Users\martu\source\repos\GestionDeUsuarios\GestionDeUsuarios\obj\Debug\net6.0-windows\GestionDeUsuarios.csproj.AssemblyReference.cache
+C:\Users\martu\source\repos\GestionDeUsuarios\GestionDeUsuarios\obj\Debug\net6.0-windows\GestionDeUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martu\source\repos\GestionDeUsuarios\GestionDeUsuarios\obj\Debug\net6.0-windows\GestionDeUsuarios.AssemblyInfoInputs.cache
+C:\Users\martu\source\repos\GestionDeUsuarios\GestionDeUsuarios\obj\Debug\net6.0-windows\GestionDeUsuarios.AssemblyInfo.cs
+C:\Users\martu\source\repos\GestionDeUsuarios\GestionDeUsuarios\obj\Debug\net6.0-windows\GestionDeUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\martu\source\repos\GestionDeUsuarios\GestionDeUsuarios\obj\Debug\net6.0-windows\GestionDeUsuarios.dll
+C:\Users\martu\source\repos\GestionDeUsuarios\GestionDeUsuarios\obj\Debug\net6.0-windows\refint\GestionDeUsuarios.dll
+C:\Users\martu\source\repos\GestionDeUsuarios\GestionDeUsuarios\obj\Debug\net6.0-windows\GestionDeUsuarios.pdb
+C:\Users\martu\source\repos\GestionDeUsuarios\GestionDeUsuarios\obj\Debug\net6.0-windows\GestionDeUsuarios.genruntimeconfig.cache
+C:\Users\martu\source\repos\GestionDeUsuarios\GestionDeUsuarios\obj\Debug\net6.0-windows\ref\GestionDeUsuarios.dll
